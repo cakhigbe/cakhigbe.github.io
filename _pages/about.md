@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
 ---
 
 I am a PhD in the Department of Economics at the <a href="https://lsa.umich.edu/econ/people.html"> University of Michigan</a>. My research interests are in Behavioral Economics, Development Economics, and Economic Policy.
