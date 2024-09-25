@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD in the Department of Economics at the University of Michigan.
+I am a PhD in the Department of Economics at the <a href="https://lsa.umich.edu/econ/people.html"> University of Michigan </a>.
 
 I also work as a graduate student instructor for ECON 101: Principles of Microeconomics.
 
-Previously I was a research and data analyst at New Growth Group LLC, where I employed quantittaive methods to analyze economic trends.
+Previously, I was a research and data analyst at <a href="https://www.newgrowthgroup.com/">New Grouth Group, Cleveland </a>, where I employed quantittaive methods to analyze economic trends.
