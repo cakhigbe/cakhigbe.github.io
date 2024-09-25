@@ -26,7 +26,8 @@ A brief overview of my research interests.
 
 ## Completed Work
 
-**Emigration and Development: What Happens to Countries When People Leave?** \\
+**Emigration and Development: What Happens to Countries When People Leave?** \
+
 Bachelor's Degree, Senior Seminar
 
 *Abstract:* The project aims to identify the impact of emigration on the home countries, especially on countries with the greatest identified potential for economic growth. Considering segments of countries based on their economic power and stability, GDP per capita in G7 countries was revealed to have a negative correlation with emigration. BRIC (Brazil, Russia, India, and China) countries, identified as secondary economic leaders, faced a similar negative effect. Conversely, large positive effects were found in developing (N11 and MINT) countries. Preliminary evidence suggests that, under certain conditions, emigration could be advantageous for developing countries, especially those that are highly dense, by reducing pressure on local resources and increasing the employment rate.
