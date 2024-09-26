@@ -8,7 +8,7 @@ redirect_from:
   - /home/
 ---
 
-I am a PhD in the Department of Economics at the <a href="https://lsa.umich.edu/econ/people.html"> University of Michigan</a>. My research interests are in Behavioral Economics, Development Economics, and Economic Policy.
+I am a PhD student in the Department of Economics at the <a href="https://lsa.umich.edu/econ/people.html"> University of Michigan</a>. My research interests are in Behavioral Economics, Development Economics, and Economic Policy.
 
 I also work as a graduate student instructor for ECON 101: Principles of Microeconomics.
 
