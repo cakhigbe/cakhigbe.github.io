@@ -22,7 +22,7 @@ A brief overview of my research interests.
 
 **Weighted Norms: Hierarchy in Second-Order Beliefs**
 
-*Working Title:* **Long Run Effects of Teacher Strikes on Students’ Post Graduation Outcomes**
+<!-- *Working Title:* **Long Run Effects of Teacher Strikes on Students’ Post Graduation Outcomes** -->
 
 ## Completed Work
 
