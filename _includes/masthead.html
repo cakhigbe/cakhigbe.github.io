@@ -13,6 +13,9 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
+            {% if link.url == '/files/Akhigbe_CV.pdf' %}
+                  <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+                  {% else %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
