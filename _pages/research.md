@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-A brief overview of my research interests.
-
----
 ## Work in Progress
 
 **Overconfidence: Self-Deception in Academic Performance**
