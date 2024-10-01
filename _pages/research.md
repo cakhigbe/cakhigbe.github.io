@@ -22,7 +22,7 @@ Work in Progress
 Completed Work
 ------
 
-**Emigration and Development: What Happens to Countries When People Leave?**
+**Emigration and Development: What Happens to Countries When People Leave?**\
 Bachelor's Degree, Senior Seminar
 
 <span style="font-size:.9em;">*This project aims to assess the impact of emigration on home countries, particularly those with high potential for economic growth. By segmenting countries based on their economic power and stability, we find that in G7 nations, there is a negative correlation between GDP per capita and emigration. A similar negative effect is observed in BRIC countries (Brazil, Russia, India, and China), which are recognized as secondary economic leaders. However, in developing nations, such as those in the N11 and MINT groups, emigration has shown large positive effects. Preliminary evidence suggests that, under certain conditions, emigration can benefit developing countries, particularly those with high population density, by reducing pressure on local resources and increasing employment rates.*
