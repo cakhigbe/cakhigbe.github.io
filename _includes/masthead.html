@@ -6,17 +6,22 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <!-- <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li> -->
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            {% if link.url == '/files/Akhigbe_CV.pdf' %}
+            {% if page.url == link.url %}
+              <li class="active_masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+              {% else %}
+                {% if link.url == '/files/Akhigbe_CV.pdf' %}
                   <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
                   {% else %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+                    <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+                {% endif %}
+            {% endif %}
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
