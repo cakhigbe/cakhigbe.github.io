@@ -25,10 +25,10 @@ author:
   name             : "Christabel Akhigbe"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics"
-  location         : "Ann Arbor, MI, USA"
+  location         : "&nbsp;Ann Arbor, MI, USA"
   employer         : "University of Michigan"
   uri              : # URL
-  email            : "cakhigbe@umich.edu" 
+  email            : "cakhigbe@umich.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
