@@ -7,13 +7,11 @@ author_profile: true
 Work in Progress
 ------
 
-**Overconfidence: Self-Deception in Academic Performance**
+**Self-Deception in Academic Performance**
 
 <!--*Abstract:* Expands literature on the dynamics of deception and self-deception by exploring the relationship between self-confidence, overconfidence, and academic success. While overconfidence may prove advantageous in contexts where social influence and persuasion are paramount, and signals about accurate ability are noisy, its impact on situations where ability signaling is accurate remains unclear. Utilizing intervention-based methods, to manipulate overconfidence levels, I explore its impact on the students’ academic performance. This study would contribute knowledge on the effects of overconfidence in contexts where ability signaling is accurate, offering insights into its implications for student achievement. It is motivated by the recognition that an inability to accurately assess one's skills in such domains carries repercussions.-->
 
-**Ghana Must Go: Impact of Mass Deportation on Nigeria**
-
-**Weighted Norms: Hierarchy in Second-Order Beliefs**
+**Ghana Must Go: Impact of Mass Deportation in Nigeria**
 
 <!-- *Working Title:* **Long Run Effects of Teacher Strikes on Students’ Post Graduation Outcomes** -->
 
