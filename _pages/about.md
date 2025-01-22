@@ -10,6 +10,6 @@ redirect_from:
 
 I am a PhD Student in the Department of Economics at the <a href="https://lsa.umich.edu/econ/people.html"> University of Michigan</a>. My research interests are in behavioral economics, development economics, and industrial organization.
 
-I also work as a Graduate Student Instructor for ECON 101: Principles of Microeconomics.
+I also work as a Graduate Student Instructor for ECON 398: Strategy.
 
 Previously, I was a Research and Data Analyst at <a href="https://www.newgrowthgroup.com/">New Growth Group</a>.
