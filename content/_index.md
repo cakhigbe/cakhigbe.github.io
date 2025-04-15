@@ -33,25 +33,18 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    id: jobs
+      title: Research
+      text: |-
+        Research Text.
+  - block: resume-experience
     content:
-      title: Experience
-      filters:
-        folders:
-          - experience.md
-        featured_only: true
+      # The user's folder name in `content/authors/`
+      username: admin
     design:
-      view: article-grid
-      columns: 2
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
