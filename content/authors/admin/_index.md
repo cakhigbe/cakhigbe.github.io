@@ -96,28 +96,28 @@ work:
 skills:
     - name: Python
       description: ''
-      # percent: 80
-      icon: code-bracket
+      icon: python
+      icon_pack: fab
     - name: STATA
       description: ''
-      # percent: 100
-      icon: ''
+      icon: chart-bar
+      icon_pack: fas
     - name: SAS
       description: ''
-      # percent: 40
-      icon: ''
+      icon: database
+      icon_pack: fas
     - name: C++
       description: ''
-      # percent: 40
-      icon: ''
+      icon: code
+      icon_pack: fas
     - name: R
       description: ''
-      # percent: 40
-      icon: ''
+      icon: r-project
+      icon_pack: fab
     - name: MATLAB
       description: ''
-      # percent: 40
-      icon: ''
+      icon: project-diagram
+      icon_pack: fas
 
 #languages:
 #  - name: English
