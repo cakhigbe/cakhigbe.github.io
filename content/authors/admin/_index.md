@@ -87,10 +87,7 @@ work:
     company_logo: https://media.licdn.com/dms/image/v2/C4E0BAQG74eCqUOSioQ/company-logo_200_200/company-logo_200_200/0/1630624111035/new_growth_group_llc_logo?e=2147483647&v=beta&t=3LDlo1fQzC_FHylMHojgJWEHtCqwZU-kRafOGyMFbJ4
     date_start: 2022
     date_end: 2023
-    # summary: 
-research:
-    - title:
-      
+    # summary:       
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
