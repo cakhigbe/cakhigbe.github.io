@@ -30,31 +30,27 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: collection
     id: research
     content:
       title: Research
-      text: |-
-        This is 
     design:
       view: list
       columins: 1
     filters:
       folders: 
       - research
-  - block: resume-experience
+
+  - block: experience
     id: experience
     content:
-      # The user's folder name in `content/authors/`
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
+      title: Experience
+
   - block: skills
     content:
       title: Skills
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
