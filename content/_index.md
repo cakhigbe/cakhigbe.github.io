@@ -37,6 +37,7 @@ sections:
       title: Research
     design:
       view: list
+      show_date: false
       columins: 1
     filters:
       folders: 
