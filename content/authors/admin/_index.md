@@ -50,9 +50,9 @@ education:
     date_end: 2023
     summary: |
       Senior Project: Emigration and Development - What Happens to Countries when People Leave? (Supervised by Dr. Jooyoun Park)
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
+    button:
+      text: 'Read More'
+      url: https://www.kent.edu/research/student-research/2023-award-winners-and-mentors-undergraduate-symposium-research
   - area: B.A. Computer Science
     institution: Kent State University
     date_start: 2019

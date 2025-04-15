@@ -47,7 +47,7 @@ sections:
       title: Experience
       filters:
         folders:
-          - teaching
+          - experience.md
         featured_only: true
     design:
       view: article-grid
