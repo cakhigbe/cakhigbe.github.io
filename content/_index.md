@@ -36,6 +36,9 @@ sections:
       title: Research
       text: |-
         Research Text.
+  - block: skills
+    content:
+      title: Skills
   - block: resume-experience
     id: experience
     content:
