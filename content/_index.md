@@ -30,10 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: collection
     id: research
     content:
       title: Research
+      text: |-
+        This is 
+    design:
+      view: list
+      columins: 1
+    filter:
+      folder: research
   - block: resume-experience
     id: experience
     content:
