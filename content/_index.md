@@ -30,12 +30,10 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
-    id: papers
+  - block: research
+    id: research
     content:
       title: Research
-      text: |-
-        Research Text.
   - block: resume-experience
     id: experience
     content:
