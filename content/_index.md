@@ -35,10 +35,6 @@ sections:
     id: research
     content:
       title: Research
-    design:
-      view: compact
-      show_date: false
-      columns: 1
     filters:
       folders: 
       - research
