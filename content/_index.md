@@ -22,14 +22,14 @@ sections:
       css_class: dark
       background:
         color: black
-        image:
+        #image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+          #filename: stacked-peaks.svg
+          #filters:
+          #  brightness: 1.0
+          #size: cover
+          #position: center
+          #parallax: false
 
   - block: collection
     id: research
@@ -44,8 +44,6 @@ sections:
 
   - block: experience
     id: experience
-    content:
-      title: Experience
 
   - block: skills
     content:
