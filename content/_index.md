@@ -37,6 +37,7 @@ sections:
       text: |-
         Research Text.
   - block: resume-experience
+    id: experience
     content:
       # The user's folder name in `content/authors/`
       username: admin
