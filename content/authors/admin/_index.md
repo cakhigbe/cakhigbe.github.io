@@ -67,7 +67,7 @@ work:
     company_name: University of Michigan
     company_url: https://lsa.umich.edu/econ/
     company_logo: https://pbs.twimg.com/profile_images/1596615125737299970/ZjeJlfUa_400x400.jpg
-    date_start: 2024
+    date_start: 2024-08-01
     date_end: ''
     summary: |2-
       ECON 398 - Strategy (Winter 2025)
@@ -76,8 +76,8 @@ work:
     company_name: University of Michigan
     company_url: https://lsa.umich.edu/econ/
     company_logo: https://pbs.twimg.com/profile_images/1596615125737299970/ZjeJlfUa_400x400.jpg
-    date_start: 2024
-    date_end: ''
+    #date_start: 2024
+    #date_end: ''
     summary: |
       David Miller (2024)
       Dean Yang (2024)
@@ -85,8 +85,8 @@ work:
     company_name: New Growth Group LLC, Cleveland
     company_url: https://www.newgrowthgroup.com
     company_logo: https://media.licdn.com/dms/image/v2/C4E0BAQG74eCqUOSioQ/company-logo_200_200/company-logo_200_200/0/1630624111035/new_growth_group_llc_logo?e=2147483647&v=beta&t=3LDlo1fQzC_FHylMHojgJWEHtCqwZU-kRafOGyMFbJ4
-    date_start: 2022
-    date_end: 2023
+    date_start: 2022-10-01
+    date_end: 2023-05-01
     # summary:       
 
 # Skills
@@ -116,10 +116,6 @@ skills:
       description: ''
       # percent: 40
       icon: ''
-    - name: SQL
-      description: ''
-      # percent: 40
-      icon: circle-stack
 
 #languages:
 #  - name: English

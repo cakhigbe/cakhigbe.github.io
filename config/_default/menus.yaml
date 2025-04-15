@@ -12,7 +12,7 @@ main:
     weight: 11
   - name: Experience
     url: /#experience
-    weight: 11
+    weight: 12
   #- name: Talks
   #  url: /#talks
   #  weight: 12
