@@ -39,8 +39,9 @@ sections:
     design:
       view: list
       columins: 1
-    filter:
-      folder: research
+    filters:
+      folders: 
+      - research
   - block: resume-experience
     id: experience
     content:
