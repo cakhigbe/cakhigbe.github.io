@@ -93,36 +93,34 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        # percent: 80
-        icon: code-bracket
-      - name: STATA
-        description: ''
-        # percent: 100
-        icon: ''
-      - name: SAS
-        description: ''
-        # percent: 40
-        icon: ''
-      - name: C++
-        description: ''
-        # percent: 40
-        icon: ''
-      - name: R
-        description: ''
-        # percent: 40
-        icon: ''
-      - name: MATLAB
-        description: ''
-        # percent: 40
-        icon: ''
-      - name: SQL
-        description: ''
-        # percent: 40
-        icon: circle-stack
+    - name: Python
+      description: ''
+      # percent: 80
+      icon: code-bracket
+    - name: STATA
+      description: ''
+      # percent: 100
+      icon: ''
+    - name: SAS
+      description: ''
+      # percent: 40
+      icon: ''
+    - name: C++
+      description: ''
+      # percent: 40
+      icon: ''
+    - name: R
+      description: ''
+      # percent: 40
+      icon: ''
+    - name: MATLAB
+      description: ''
+      # percent: 40
+      icon: ''
+    - name: SQL
+      description: ''
+      # percent: 40
+      icon: circle-stack
 
 #languages:
 #  - name: English
@@ -132,14 +130,14 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Emigration and Development - What Happens to Countries when People Leave?
-    url: https://www.kent.edu/research/student-research/2023-award-winners-and-mentors-undergraduate-symposium-research
-    date: '2023-11-25'
-    awarder: Kent State Univesrity Office of Student Research
-    icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7atacsVdcHOQekQbxhh5_HFCoSUhv5Tm1g&s
-    summary: |
-      I studied how emigration affects home countries, particularly developing economies. While emigration is often seen as a loss of labor, I find that in countries like those in the N11 and MINT groups, higher emigration rates are correlated with greater productivity. In contrast, developed nations show negative effects. These findings suggest that for emerging economies, emigration can relieve labor market pressure and support growth — challenging the idea that retaining workers always benefits development.
+#awards:
+#  - title: Emigration and Development - What Happens to Countries when People Leave?
+#    url: https://www.kent.edu/research/student-research/2023-award-winners-and-mentors-undergraduate-symposium-research
+#    date: '2023-11-25'
+#    awarder: Kent State Univesrity Office of Student Research
+#    icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7atacsVdcHOQekQbxhh5_HFCoSUhv5Tm1g&s
+#    summary: |
+#      I studied how emigration affects home countries, particularly developing economies. While emigration is often seen as a loss of labor, I find that in countries like those in the N11 and MINT groups, higher emigration rates are correlated with greater productivity. In contrast, developed nations show negative effects. These findings suggest that for emerging economies, emigration can relieve labor market pressure and support growth — challenging the idea that retaining workers always benefits development.
 ---
 
 ## About Me
