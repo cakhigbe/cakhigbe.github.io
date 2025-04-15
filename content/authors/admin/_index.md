@@ -46,8 +46,8 @@ interests:
 education:
   - area: B.A. Economics
     institution: Kent State University
-    date_start: 2019
-    date_end: 2023
+    date_start: 2019-08
+    date_end: 2023-05
     summary: |
       Senior Project: Emigration and Development - What Happens to Countries when People Leave? (Supervised by Dr. Jooyoun Park)
     button:
@@ -55,8 +55,8 @@ education:
       url: https://www.kent.edu/research/student-research/2023-award-winners-and-mentors-undergraduate-symposium-research
   - area: B.A. Computer Science
     institution: Kent State University
-    date_start: 2019
-    date_end: 2023
+    date_start: 2019-08
+    date_end: 2023-05
     summary: |
       Capstone Project: ArchLib - Front-End and Database Developer for the University’s Archeology department’s library website.
     button:
