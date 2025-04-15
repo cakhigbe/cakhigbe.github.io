@@ -1,5 +1,5 @@
 ---
-title: Overconfidence - Self-Deception in Academic Performance
+title: Self-Deception in Academic Performance
 summary: Investigating whether overconfidence correlates with academic achievement and how signaling one's true ability influences outcomes and beliefs.
 date_start: ''
 #link: /files/semaglutide-paper.pdf

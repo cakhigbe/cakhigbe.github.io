@@ -34,7 +34,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Research
+      title: Work in Progress
     filters:
       folders: 
       - research
