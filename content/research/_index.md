@@ -1,10 +1,10 @@
 ---
 title: Works in Progress
 cms_exclude: true
-#url: talk
+url: research
 
 # View
-view: compact
+view: list
 
 # Optional cover image (relative to `assets/media/` folder).
 image:

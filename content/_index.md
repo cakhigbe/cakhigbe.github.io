@@ -36,7 +36,7 @@ sections:
     content:
       title: Work in Progress
     filters:
-      folders: 
+      folders:
       - research
 
   - block: experience
