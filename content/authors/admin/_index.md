@@ -77,11 +77,11 @@ work:
     company_name: University of Michigan
     company_url: https://lsa.umich.edu/econ/
     company_logo: https://pbs.twimg.com/profile_images/1596615125737299970/ZjeJlfUa_400x400.jpg
-    #date_start: 2024
-    #date_end: ''
+    date_start: 2024-05-01
+    date_end: ''
     summary: |
       David Miller (2024)
-      
+
       Dean Yang (2024)
   - position: Research and Data Analyst
     company_name: New Growth Group LLC, Cleveland
