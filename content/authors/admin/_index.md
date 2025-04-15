@@ -11,7 +11,7 @@ last_name: Akhigbe
 
 # Status emoji
 status:
-  icon: 🍵
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ role: PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Michigan
-    url: https://lsa.umich.edu/econ/
+    url: 'https://lsa.umich.edu/econ/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -133,7 +133,7 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 1st Place - Annual Symposium on Research
+  - title: Emigration and Development - What Happens to Countries when People Leave?
     url: https://www.kent.edu/research/student-research/2023-award-winners-and-mentors-undergraduate-symposium-research
     date: '2023-11-25'
     awarder: Kent State Univesrity Office of Student Research
