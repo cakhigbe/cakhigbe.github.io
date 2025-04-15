@@ -36,9 +36,9 @@ sections:
     content:
       title: Research
     design:
-      view: list
+      view: compact
       show_date: false
-      columins: 1
+      columns: 1
     filters:
       folders: 
       - research
