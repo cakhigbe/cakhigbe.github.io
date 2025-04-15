@@ -5,6 +5,7 @@ cms_exclude: true
 
 # View
 view: list
+show_date: false
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
