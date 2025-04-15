@@ -71,6 +71,7 @@ work:
     date_end: ''
     summary: |2-
       ECON 398 - Strategy (Winter 2025)
+
       ECON 101 - Principles of Microeconomics (Fall 2024)
   - position: Research Assistant
     company_name: University of Michigan
@@ -80,6 +81,7 @@ work:
     #date_end: ''
     summary: |
       David Miller (2024)
+      
       Dean Yang (2024)
   - position: Research and Data Analyst
     company_name: New Growth Group LLC, Cleveland
