@@ -1,5 +1,5 @@
 ---
-title: Choice Overload: Regret and Responsibility
+title: Choice Overload - Regret and Responsibility
 summary: Exploring how anticipated regret and perceived responsibility shape choices under complexity.
 date: 2025-01-01
 #link: /files/semaglutide-paper.pdf
