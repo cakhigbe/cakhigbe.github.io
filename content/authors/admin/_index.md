@@ -81,8 +81,10 @@ work:
     date_start: 2024-05-01
     date_end: ''
     summary: |
-      David Miller (2024)
+      Christine Exley (2025)
 
+      David Miller (2024)
+      
       Dean Yang (2024)
   - position: Research and Data Analyst
     company_name: New Growth Group LLC, Cleveland
