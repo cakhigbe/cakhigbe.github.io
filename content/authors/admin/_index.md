@@ -40,8 +40,9 @@ profiles:
 
 interests:
   - Behavioral Economics
-  - Industrial Organization
   - Development Economics
+  - Industrial Organization
+  - Microeconomic Theory
 
 education:
   - area: B.A. Economics
@@ -134,7 +135,7 @@ skills:
 #    awarder: Kent State Univesrity Office of Student Research
 #    icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7atacsVdcHOQekQbxhh5_HFCoSUhv5Tm1g&s
 #    summary: |
-#      I studied how emigration affects home countries, particularly developing economies. While emigration is often seen as a loss of labor, I find that in countries like those in the N11 and MINT groups, higher emigration rates are correlated with greater productivity. In contrast, developed nations show negative effects. These findings suggest that for emerging economies, emigration can relieve labor market pressure and support growth — challenging the idea that retaining workers always benefits development.
+#      I studied how emigration affects home countries, particularly developing economies. While emigration is often seen as a loss of labor, I find that in developing countries, higher emigration rates are correlated with greater productivity. In contrast, developed nations find negative effects. These findings suggest that for emerging economies, emigration can relieve labor market pressure and support growth — challenging the idea that labor retention necessarily hastens development.
 ---
 
 ## About Me
