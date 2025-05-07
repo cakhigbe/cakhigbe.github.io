@@ -42,7 +42,6 @@ interests:
   - Behavioral Economics
   - Development Economics
   - Industrial Organization
-  - Microeconomic Theory
 
 education:
   - area: B.A. Economics
